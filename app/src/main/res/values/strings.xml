@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beat My Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_sort_key" >PREF_SORT_LIST</string>
+    <string name="pref_sort_label" >Sort By</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="title_activity_setting">Settings</string>
+    <string name="panes">Panes</string>
+    <string name="saved_pane_default">1</string>s
+</resources>
